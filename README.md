@@ -46,4 +46,4 @@ Exemple :
 
 Il suffit ici de tapper 1 pour jouer, 2 pour lire les règles et 3 pour quitter la partie.
 
-####Maintenant que le jeu est présenté à vous de jouez !
+###Maintenant que le jeu est présenté à vous de jouez !
